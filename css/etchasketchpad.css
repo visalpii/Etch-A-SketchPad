@@ -1,0 +1,17 @@
+.wrapper{
+	width: 640px;
+	
+}
+.box{
+	display: inline-block;
+}
+
+.button{
+	display: inline-block;
+	clear: right;
+	text-align: center;
+	text-decoration: none;
+	background-color: grey;
+	color: black;
+
+}
